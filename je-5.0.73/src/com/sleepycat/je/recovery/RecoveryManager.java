@@ -7,6 +7,8 @@
 
 package com.sleepycat.je.recovery;
 
+import if2ifdef.If2Ifdef;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -161,6 +163,7 @@ public class RecoveryManager {
             boolean forceCheckpoint =
                 configManager.getBoolean
                 (EnvironmentParams.ENV_RECOVERY_FORCE_CHECKPOINT);
+            If2Ifdef.makeSymbolic(forceCheckpoint);
             if (fileManager.filesExist()) {
 
                 /* 

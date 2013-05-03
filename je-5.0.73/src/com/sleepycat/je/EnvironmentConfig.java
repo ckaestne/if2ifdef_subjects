@@ -7,6 +7,8 @@
 
 package com.sleepycat.je;
 
+import if2ifdef.If2Ifdef;
+
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Handler;
@@ -3121,8 +3123,10 @@ public class EnvironmentConfig extends EnvironmentMutableConfig {
      * #setSharedCache
      */
     public boolean getSharedCache() {
-        return DbConfigManager.getBooleanVal
-            (props, EnvironmentParams.ENV_SHARED_CACHE);
+        boolean sharedCache=DbConfigManager.getBooleanVal
+                (props, EnvironmentParams.ENV_SHARED_CACHE);
+        If2Ifdef.makeSymbolic(sharedCache);
+		return sharedCache;
     }
 
     /**

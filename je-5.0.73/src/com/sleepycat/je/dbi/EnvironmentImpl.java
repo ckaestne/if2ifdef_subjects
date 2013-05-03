@@ -10,6 +10,8 @@ import static com.sleepycat.je.dbi.DbiStatDefinition.ENVIMPL_RELATCHES_REQUIRED;
 import static com.sleepycat.je.dbi.DbiStatDefinition.ENV_GROUP_DESC;
 import static com.sleepycat.je.dbi.DbiStatDefinition.ENV_GROUP_NAME;
 
+import if2ifdef.If2Ifdef;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintStream;
@@ -551,6 +553,7 @@ public class EnvironmentImpl implements EnvConfigObserver {
 
         isReadOnly =
             configManager.getBoolean(EnvironmentParams.ENV_RDONLY);
+        If2Ifdef.makeSymbolic(isReadOnly);
         isMemOnly =
             configManager.getBoolean(EnvironmentParams.LOG_MEMORY_ONLY);
         useSharedLatchesForINs =
@@ -599,6 +602,7 @@ public class EnvironmentImpl implements EnvConfigObserver {
              */
             final boolean doRecovery =
                 configManager.getBoolean(EnvironmentParams.ENV_RECOVERY);
+            If2Ifdef.makeSymbolic(doRecovery);
             if (doRecovery) {
 
                 /*
@@ -1901,7 +1905,9 @@ public class EnvironmentImpl implements EnvConfigObserver {
         throws DatabaseException {
 
         /* Only enabled if this check leak flag is true. */
-        if (!configManager.getBoolean(EnvironmentParams.ENV_CHECK_LEAKS)) {
+    	boolean checkLeaks = configManager.getBoolean(EnvironmentParams.ENV_CHECK_LEAKS);
+    	If2Ifdef.makeSymbolic(checkLeaks);
+        if (!checkLeaks) {
             return;
         }
 
