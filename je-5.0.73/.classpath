@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="docs/HidingDoclet.jar"/>
+	<classpathentry kind="lib" path="lib/je-5.0.73.jar"/>
+	<classpathentry kind="lib" path="lib/je-android-5.0.73.jar"/>
+	<classpathentry kind="lib" path="lib/JEJConsole.jar"/>
+	<classpathentry kind="lib" path="lib/RepJEJConsole.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
