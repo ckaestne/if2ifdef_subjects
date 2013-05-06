@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1784/trunk/main/src/chord/analyses/point
+END
+P.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1738/trunk/main/src/chord/analyses/point/P.xsl
+END
+Plist.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1738/trunk/main/src/chord/analyses/point/Plist.dtd
+END
+RelMPtail.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1784/trunk/main/src/chord/analyses/point/RelMPtail.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1437/trunk/main/src/chord/analyses/point/package.html
+END
+RelMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/point/RelMP.java
+END
+DomP.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1784/trunk/main/src/chord/analyses/point/DomP.java
+END
+RelMPhead.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1784/trunk/main/src/chord/analyses/point/RelMPhead.java
+END
+RelPP.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1784/trunk/main/src/chord/analyses/point/RelPP.java
+END

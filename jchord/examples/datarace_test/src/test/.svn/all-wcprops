@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1720/trunk/main/examples/datarace_test/src/test
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1720/trunk/main/examples/datarace_test/src/test/A.java
+END
+B.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1720/trunk/main/examples/datarace_test/src/test/B.java
+END
+T.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1720/trunk/main/examples/datarace_test/src/test/T.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1776/trunk/main/bdd
+END
+buddy_jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1338/trunk/main/bdd/buddy_jni.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1776/trunk/main/bdd/Makefile
+END
+buddy_jni.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1338/trunk/main/bdd/buddy_jni.c
+END

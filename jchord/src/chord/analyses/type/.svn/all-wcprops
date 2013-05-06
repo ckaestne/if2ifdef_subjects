@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1784/trunk/main/src/chord/analyses/type
+END
+T.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1436/trunk/main/src/chord/analyses/type/T.xsl
+END
+RelScopeIncludedT.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1780/trunk/main/src/chord/analyses/type/RelScopeIncludedT.java
+END
+RelClassT.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/type/RelClassT.java
+END
+RelCheckIncludedT.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1780/trunk/main/src/chord/analyses/type/RelCheckIncludedT.java
+END
+RelSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/type/RelSub.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1438/trunk/main/src/chord/analyses/type/package.html
+END
+RelCHA.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/type/RelCHA.java
+END
+RelScopeExcludedT.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1780/trunk/main/src/chord/analyses/type/RelScopeExcludedT.java
+END
+RelCheckExcludedT.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1780/trunk/main/src/chord/analyses/type/RelCheckExcludedT.java
+END
+DomT.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1784/trunk/main/src/chord/analyses/type/DomT.java
+END
+RelInterfaceT.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/type/RelInterfaceT.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/495/trunk/main/examples/datarace_test/chord.properties
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1158/trunk/main/examples/datarace_test/build.xml
+END

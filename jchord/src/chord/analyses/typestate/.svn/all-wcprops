@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1798/trunk/main/src/chord/analyses/typestate
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1777/trunk/main/src/chord/analyses/typestate/package.html
+END
+AccessPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/typestate/AccessPath.java
+END
+GlobalAccessPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/typestate/GlobalAccessPath.java
+END
+TypeStateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/typestate/TypeStateParser.java
+END
+Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1798/trunk/main/src/chord/analyses/typestate/Helper.java
+END
+TypeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/typestate/TypeState.java
+END
+RegisterAccessPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1797/trunk/main/src/chord/analyses/typestate/RegisterAccessPath.java
+END
+AbstractState.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1788/trunk/main/src/chord/analyses/typestate/AbstractState.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1788/trunk/main/src/chord/analyses/typestate/Edge.java
+END
+modMF.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1750/trunk/main/src/chord/analyses/typestate/modMF.dlog
+END
+TypeStateAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1798/trunk/main/src/chord/analyses/typestate/TypeStateAnalysis.java
+END
+EdgeKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/typestate/EdgeKind.java
+END
+TypeStateSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/typestate/TypeStateSpec.java
+END

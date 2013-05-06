@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/deadlock
+END
+nonreent_exclude.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/nonreent_exclude.dlog
+END
+escaping_exclude.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/escaping_exclude.dlog
+END
+nongrded_include.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/nongrded_include.dlog
+END
+parallel_exclude.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/parallel_exclude.dlog
+END
+DeadlockAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/deadlock/DeadlockAnalysis.java
+END
+deadlock.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/deadlock.dlog
+END
+nongrded_exclude.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/nongrded_exclude.dlog
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1338/trunk/main/src/chord/analyses/deadlock/package.html
+END
+nonreent_include.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/nonreent_include.dlog
+END
+escaping_include.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/escaping_include.dlog
+END
+parallel_include.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/parallel_include.dlog
+END

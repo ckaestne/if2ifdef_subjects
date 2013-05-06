@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/web
+END
+results.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/web/results.dtd
+END
+results.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/web/results.xml
+END
+group.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/web/group.xsl
+END
+paths.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/deadlock/web/paths.xsl
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web
+END
+dataraces_by_obj.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/dataraces_by_obj.html
+END
+race_TE0_TE1.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/race_TE0_TE1.html
+END
+race_TE2_TE1.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/race_TE2_TE1.html
+END
+path_TE0.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/path_TE0.html
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/style.css
+END
+path_TE1.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/path_TE1.html
+END
+dataraces_by_fld.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/dataraces_by_fld.html
+END
+path_TE2.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1776/trunk/main/examples/datarace_test/web/path_TE2.html
+END

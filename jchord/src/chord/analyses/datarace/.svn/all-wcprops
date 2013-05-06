@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/datarace
+END
+escaping_include.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/datarace/escaping_include.dlog
+END
+parallel_include.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/datarace/parallel_include.dlog
+END
+RelExcludeInitMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/datarace/RelExcludeInitMethods.java
+END
+escaping_exclude.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/datarace/escaping_exclude.dlog
+END
+nongrded_include.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/datarace/nongrded_include.dlog
+END
+DataraceAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/datarace/DataraceAnalysis.java
+END
+datarace.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1608/trunk/main/src/chord/analyses/datarace/datarace.dlog
+END
+parallel_exclude.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/datarace/parallel_exclude.dlog
+END
+RelExcludeSameThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/datarace/RelExcludeSameThread.java
+END
+nongrded_exclude.dlog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1607/trunk/main/src/chord/analyses/datarace/nongrded_exclude.dlog
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1338/trunk/main/src/chord/analyses/datarace/package.html
+END

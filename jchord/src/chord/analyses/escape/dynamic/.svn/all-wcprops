@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1777/trunk/main/src/chord/analyses/escape/dynamic
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1777/trunk/main/src/chord/analyses/escape/dynamic/package.html
+END
+DynamicThreadEscapeAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1776/trunk/main/src/chord/analyses/escape/dynamic/DynamicThreadEscapeAnalysis.java
+END

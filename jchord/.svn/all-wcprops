@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/1811/trunk/main
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1776/trunk/main/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1776/trunk/main/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1542/trunk/main/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1121/trunk/main/.project
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1776/trunk/main/COPYING
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1737/trunk/main/chord.properties
+END

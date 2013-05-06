@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src
+END
+bvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/bvec.c
+END
+kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/kernel.c
+END
+prime.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/prime.h
+END
+bddio.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/bddio.c
+END
+imatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/imatrix.h
+END
+cppext.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/cppext.cxx
+END
+bvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/bvec.h
+END
+kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/kernel.h
+END
+bddop.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/bddop.c
+END
+fdd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/fdd.c
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/trace.c
+END
+bdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/bdd.h
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/tree.c
+END
+reorder.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/reorder.c
+END
+fdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/fdd.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/cache.c
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/trace.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/cache.h
+END
+bddtest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/bddtest.cxx
+END
+prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/prime.c
+END
+imatrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/imatrix.c
+END
+bddtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/bddtree.h
+END
+pairs.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1338/trunk/main/bdd/buddy/src/pairs.c
+END

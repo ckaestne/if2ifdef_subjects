@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1776/trunk/main/src/chord/util/tuple/integer
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1338/trunk/main/src/chord/util/tuple/integer/package.html
+END
+IntPent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1776/trunk/main/src/chord/util/tuple/integer/IntPent.java
+END
+IntHext.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1776/trunk/main/src/chord/util/tuple/integer/IntHext.java
+END
+IntQuad.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1776/trunk/main/src/chord/util/tuple/integer/IntQuad.java
+END
+IntPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1776/trunk/main/src/chord/util/tuple/integer/IntPair.java
+END
+IntTrio.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1776/trunk/main/src/chord/util/tuple/integer/IntTrio.java
+END
