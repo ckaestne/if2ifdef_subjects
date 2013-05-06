@@ -1,5 +1,7 @@
 package chord.project;
 
+import if2ifdef.If2Ifdef;
+
 import java.io.File;
 import java.io.IOException;
 import chord.util.Utils;
@@ -54,13 +56,14 @@ public class Config {
 
     // properties dictating what gets computed/printed by Chord
 
-    public final static boolean buildScope = Utils.buildBoolProperty("chord.build.scope", false);
+    public final static boolean buildScope = 
+    	If2Ifdef.makeSymbolic(Utils.buildBoolProperty("chord.build.scope", false));
     public final static String runAnalyses = System.getProperty("chord.run.analyses", "");
     public final static String printClasses = System.getProperty("chord.print.classes", "").replace('#', '$');
     public final static boolean printAllClasses = Utils.buildBoolProperty("chord.print.all.classes", false);
     public final static String printRels = System.getProperty("chord.print.rels", "");
     public final static boolean printProject = Utils.buildBoolProperty("chord.print.project", false);
-    public final static boolean printResults = Utils.buildBoolProperty("chord.print.results", true);
+    public final static boolean printResults = If2Ifdef.makeSymbolic(Utils.buildBoolProperty("chord.print.results", true));
     public final static boolean saveDomMaps = Utils.buildBoolProperty("chord.save.maps", true);
     // Determines verbosity level of Chord:
     // 0 => silent
@@ -75,7 +78,7 @@ public class Config {
 
     // Chord project properties
 
-    public final static boolean classic = System.getProperty("chord.classic").equals("true");
+    public final static boolean classic = If2Ifdef.makeSymbolic(System.getProperty("chord.classic").equals("true"));
     public final static String stdJavaAnalysisPathName = System.getProperty("chord.std.java.analysis.path");
     public final static String extJavaAnalysisPathName = System.getProperty("chord.ext.java.analysis.path");
     public final static String javaAnalysisPathName = System.getProperty("chord.java.analysis.path");
@@ -85,7 +88,7 @@ public class Config {
 
     // properties specifying configuration of instrumentation and dynamic analysis
 
-    public final static boolean useJvmti = Utils.buildBoolProperty("chord.use.jvmti", false);
+    public final static boolean useJvmti =If2Ifdef.makeSymbolic( Utils.buildBoolProperty("chord.use.jvmti", false));
     public final static String instrKind = System.getProperty("chord.instr.kind", "offline");
     public final static String traceKind = System.getProperty("chord.trace.kind", "full");
     public final static int traceBlockSize = Integer.getInteger("chord.trace.block.size", 4096);
@@ -93,7 +96,7 @@ public class Config {
         check(instrKind, new String[] { "offline", "online" }, "chord.instr.kind");
         check(traceKind, new String[] { "full", "pipe" }, "chord.trace.kind");
     }
-    public final static boolean dynamicHaltOnErr = Utils.buildBoolProperty("chord.dynamic.haltonerr", true);
+    public final static boolean dynamicHaltOnErr =If2Ifdef.makeSymbolic( Utils.buildBoolProperty("chord.dynamic.haltonerr", true));
     public final static int dynamicTimeout = Integer.getInteger("chord.dynamic.timeout", -1);
     public final static int maxConsSize = Integer.getInteger("chord.max.cons.size", 50000000);
 
@@ -105,7 +108,7 @@ public class Config {
 
     // properties concerning BDDs
 
-    public final static boolean useBuddy =Utils.buildBoolProperty("chord.use.buddy", false);
+    public final static boolean useBuddy =If2Ifdef.makeSymbolic(Utils.buildBoolProperty("chord.use.buddy", false));
     public final static String bddbddbMaxHeap = System.getProperty("chord.bddbddb.max.heap", "1024m");
     public final static String bddCodeFragmentFolder = System.getProperty("chord.bddbddb.codeFragment.out", "");
 
