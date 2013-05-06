@@ -31,6 +31,8 @@
 
 package org.hsqldb.server;
 
+import id2ifdef.If2Ifdef;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -1244,8 +1246,11 @@ public class Server implements HsqlSocketRequestHandler {
 
         isSilent =
             serverProperties.isPropertyTrue(ServerProperties.sc_key_silent);
-        isRemoteOpen = serverProperties.isPropertyTrue(
-            ServerProperties.sc_key_remote_open_db);
+        boolean _isRemoteOpen = serverProperties.isPropertyTrue(
+                ServerProperties.sc_key_remote_open_db);
+        If2Ifdef.makeSymbolic(_isRemoteOpen);
+        isRemoteOpen = _isRemoteOpen;
+        
         isDaemon =
             serverProperties.isPropertyTrue(ServerProperties.sc_key_daemon);
 
